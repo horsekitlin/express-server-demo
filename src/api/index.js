@@ -1,7 +1,7 @@
-import users from "./Users";
+import users from './Users';
+import rooms from './ChatRooms';
 
 export default {
-
-    users : users
-
+    users : users,
+    rooms : rooms
 };
